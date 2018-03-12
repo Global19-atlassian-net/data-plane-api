@@ -155,3 +155,8 @@ source distributions that target specific use cases.
     :maxdepth: 1
 
     distro/ambassador
+
+.. toctree::
+    :maxdepth: 1
+
+    distro/gloo
